@@ -23,7 +23,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg");
      opacity: 0.2;
      top: 0;
      left: 0;
@@ -32,15 +32,3 @@ body {
      position: absolute;
      z-index: -1;	
 }
-
-/* added */
-/* .project{
-     margin-left: 20px;
-     background-color: #deebf7;
-     padding: 20px;
-     width: 525px;
-} */
-
-/* #project1{
-     font-variant: small-caps;
-} */
